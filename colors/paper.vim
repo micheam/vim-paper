@@ -53,9 +53,9 @@ command! -nargs=+ Hi call s:Hi(<f-args>)
 
 " Available colors
 let s:colors = {
-\  'background': '#f2eede',
-\  'lbackground': '#f7f3e3',
-\  'black': '#000000',
+\  'background': '#eae9e3',
+\  'lbackground': '#eae9e3',
+\  'black': '#222221',
 \  'blue': '#1e6fcc',
 \  'green': '#216609',
 \  'lgreen': '#dfeacc',
