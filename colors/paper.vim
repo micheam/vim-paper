@@ -54,7 +54,7 @@ command! -nargs=+ Hi call s:Hi(<f-args>)
 " Available colors
 let s:colors = {
 \  'background': '#eae9e3',
-\  'lbackground': '#eae9e3',
+\  'lbackground': '#f3f1ea',
 \  'black': '#222221',
 \  'blue': '#1e6fcc',
 \  'green': '#216609',
@@ -131,7 +131,7 @@ Hi Comment grey NONE NONE
 Hi Conceal NONE NONE NONE
 Hi Constant black NONE NONE
 Hi Cursor NONE lgrey1 NONE
-Hi CursorLine NONE lbackground NONE
+Hi CursorLine NONE NONE NONE
 Hi CursorLineNR black NONE bold
 Hi Directory purple NONE NONE
 Hi ErrorMsg red NONE bold
