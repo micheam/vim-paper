@@ -139,7 +139,7 @@ Hi FoldColumn black background NONE
 Hi Identifier black NONE NONE
 Hi Include black NONE bold
 Hi Keyword black NONE bold
-Hi LineNr black NONE NONE
+Hi LineNr lgrey2 NONE NONE
 Hi Macro orange NONE NONE
 Hi MatchParen NONE NONE bold
 Hi MoreMsg black NONE NONE
